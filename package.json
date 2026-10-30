@@ -1,0 +1,13 @@
+{
+  "name": "gongju-jobs",
+  "version": "1.0.0",
+  "description": "공주시 맞춤형 일자리 탐색 앱 — KOSIS 연계 백엔드 및 프론트엔드",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true
+}
